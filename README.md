@@ -1,7 +1,7 @@
 # Box-Gestures-App
 An app to move a box with gestures (Swift/iOS).
 
-To run the app, download Box-Gestures.zip and open the Xcode project. It runs best with Xcode 13.0 and iOS version 16.0
+To run the app, download all the files and open the Xcode project. It runs best with Xcode 13.0 and iOS version 16.0
 
 This app has Swipe Gesture Recognition to allow the user to control the box. If the box reaches any of the edges, it turns red and the game is over. Restart is possible with Tap Gesture Recognition, putting the box back in the center of the screen.
 
